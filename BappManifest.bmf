@@ -1,0 +1,10 @@
+Uuid: 08965869089f4ad18be95e65fb50c357
+ExtensionType: 2
+Name: PT-Manager
+ScreenVersion: 0.1
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: Barak Tawily
+ShortDescription: Helps application security professionals to manage the vulnerabilities in a project.
+EntryPoint: PTManager.py
